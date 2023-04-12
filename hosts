@@ -1,0 +1,11 @@
+# Hosts file
+
+
+# This is a group of hosts
+[zoscbHosts]
+9.30.118.23 ansible_ssh_user=kberkos
+
+# Openshift clusters
+[openshift]
+api.zoscb-test.cp.fyre.ibm.com:6443
+api.zoscb-dev.cp.fyre.ibm.com:6443

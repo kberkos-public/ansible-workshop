@@ -1,0 +1,21 @@
+---
+# comment
+
+name: Kyle
+occupation: software dev
+state: CT
+
+
+- ansible
+- java
+- golang
+
+languages:
+  - react
+  - java
+  - python
+
+languages: ['java', 'golang', 'unix']
+
+# Defining variable
+language: "{{Language}}"

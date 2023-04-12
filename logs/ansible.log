@@ -1,0 +1,5 @@
+2023-04-11 11:12:38,032 p=19167 u=kyle n=ansible | 9.30.118.23 | UNREACHABLE! => {
+    "changed": false,
+    "msg": "Failed to connect to the host via ssh: kberkos@9.30.118.23: Permission denied (publickey,password).",
+    "unreachable": true
+}
